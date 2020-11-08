@@ -27,11 +27,11 @@ I would like to develop this product further. I plan to add a convenient editor 
 
 ## WHAT TO DO IN THE APP
 
-  You can go to the page `https: // nkscanner.herokuapp.com / code-generator` or` https: // nkscanner.herokuapp.com / public / code-generator`. Here you will see an example of a QR code that you can use in your products. Having scanned it, you will be taken to an example page with a product overview. If scanning is not convenient for you, you can go directly to the page `https: // nkscanner.herokuapp.com /` or `https: // nkscanner.herokuapp.com / public`.
+  You can go to the page `https://nkscanner.herokuapp.com/code-generator` or` https://nkscanner.herokuapp.com/public/code-generator`. Here you will see an example of a QR code that you can use in your products. Having scanned it, you will be taken to an example page with a product overview. If scanning is not convenient for you, you can go directly to the page `https://nkscanner.herokuapp.com/` or `https://nkscanner.herokuapp.com/public`.
   
-  Statistics page `https: // nkscanner.herokuapp.com / statistic` or` https: // nkscanner.herokuapp.com / public / statistic`.
+  Statistics page `https://nkscanner.herokuapp.com/statistic` or` https://nkscanner.herokuapp.com/public/statistic`.
   
-  Product creation page `https: // nkscanner.herokuapp.com / product-generator` or` https: // nkscanner.herokuapp.com / public / product-generator`.
+  Product creation page `https://nkscanner.herokuapp.com/product-generator` or` https://nkscanner.herokuapp.com/public/product-generator`.
 
 
 
