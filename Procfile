@@ -1,1 +1,1 @@
-web: ./public/index.html
+web: sudo ./public/index.html
