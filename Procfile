@@ -1,1 +1,1 @@
-web: sudo ./public/index.html
+web: npm start
