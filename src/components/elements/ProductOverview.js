@@ -7,7 +7,7 @@ import Points from './Points';
 import circle from '../../assets/elements/circle.svg';
 import chicken from '../../assets/products/chicken.png'
 
- 
+
 let product = chicken;
 
 var params = window
